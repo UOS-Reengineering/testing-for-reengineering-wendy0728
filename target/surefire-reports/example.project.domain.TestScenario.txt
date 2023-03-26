@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: example.project.domain.TestScenario
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.021 s <<< FAILURE! - in example.project.domain.TestScenario
+testEquality  Time elapsed: 0.021 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <[0.5, 0.5]> but was: <[0.51, 0.51]>
+	at example.project.domain.TestScenario.testEquality(TestScenario.java:38)
+

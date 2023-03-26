@@ -32,6 +32,7 @@ public class TestSnapshot {
         assertEquals(s1.weatherCondition, s2.weatherCondition);
         assertEquals(s1.egoCarPos, s2.egoCarPos);
         assertEquals(s1.carInFrontPos, s2.carInFrontPos);
+
     }
 
     @Test
